@@ -1,5 +1,3 @@
-# Projects
-Machine learning projects developed out of public datasets. 
 # Context: 
 
     According to the World Health Organization (WHO) stroke is the 2nd leading cause of death globally, responsible 
