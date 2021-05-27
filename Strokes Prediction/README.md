@@ -12,14 +12,14 @@ Machine learning projects developed out of public datasets.
 
     Our top priority in this health problem is to identify patients with a stroke.
 
-# Dataset used: 
+# Dataset Used: 
 
     Strokes Dataset (https://www.kaggle.com/fedesoriano/stroke-prediction-dataset)
 
-#Evaluation:
+# Evaluation:
 
     For evaluation tecnics we are going to use Recall instead of F1-score (suggested by the kaggles author)
     
-#Dataset Author:
+# Dataset Author:
 
     fedesoriano (https://www.kaggle.com/fedesoriano)
