@@ -1,0 +1,37 @@
+# Context: 
+
+    With the rapid development of telecommunication industry, the service providers are inclined more towards expansion of the subscriber base. To meet the need of surviving
+    in the competitive environment, the retention of existing customers has become a huge challenge. It is stated that the cost of acquiring a new customer is far more than
+    that for retaining the existing one. Therefore, it is imperative for the telecom industries to use advanced analytics to understand consumer behavior and in-turn predict
+    the association of the customers as whether or not they will leave the company.
+
+# Objective: 
+
+    Who are the customers more likely to churn?
+
+# Dataset used: 
+
+    Churn Dataset (https://www.kaggle.com/barun2104/telecom-churn)
+
+# Atributte Information:
+
+    1) Churn - 1 if customer cancelled service, 0 if not
+    2) AccountWeeks - number of weeks customer has had active account
+    3) ContractRenewal - 1 if customer recently renewed contract, 0 if not
+    4) DataPlan - 1 if customer has data plan, 0 if not
+    5) DataUsage - gigabytes of monthly data usage
+    6) CustSurvCalls - number of calls into customer service
+    7) DayMins - average daytime minutes per month
+    8) DayCalls - average number of daytime calls
+    9) MonthlyCharge - average monthly bill
+    10) OverageFee - largest overage fee in last 12 months
+    11) RoamMins - average number of roaming minutes
+    
+# Evaluation:
+
+    For evaluation tecnics we are going to use Recall, with special atention to accuracy and FI-Score 
+    
+# Dataset Author:
+
+    Barun Kumar (https://www.kaggle.com/barun2104)
+
